@@ -13,7 +13,6 @@ a {
 	padding: 0 2vh;
 }
 header {
-	display: none;
 	position: fixed;
 	z-index: 10;
 	top: 0;
@@ -22,6 +21,9 @@ header {
 	height: 10vh;
 	width: 100vw;
 	text-align: center;
+}
+header #desktop {
+	display: none;
 }
 section {
 	position: relative;
@@ -71,8 +73,11 @@ section .items {
 		width: calc(80vw / 2);
 		height: calc(80vw / 2);
 	}
-	header {
+	header #desktop {
 		display:block;
+	}
+	header #mobile {
+		display: none;
 	}
 }
 
