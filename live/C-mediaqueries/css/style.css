@@ -40,6 +40,8 @@ section #work {
 section p {
 	width: 80vw;
 	float: left;
+	padding: 20px;
+	box-sizing: border-box;
 }
 
 section .items {
