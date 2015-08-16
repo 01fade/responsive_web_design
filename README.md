@@ -2,4 +2,10 @@
 Dorkshop at MFA Design + Technology, Parsons School for Design
 
 An important thing to know and practice.
-![](/screenshots/4columns.png)
+
+Here's one result:
+
+![4columns](/screenshots/4columns.png)
+![3columns](/screenshots/3columns.png)
+![2columns](/screenshots/2columns.png)
+![1columns](/screenshots/1column.png)
