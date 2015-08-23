@@ -8,7 +8,8 @@ An important thing to know and practice.
 3. Responsive Web Design with relative units such as %, vh (viewport height), vw (viewport width)
 4. Simple media query, change background color depending on pixel width
 5. Responsive grid (see below)
-[Here are the dorkshop's slides](Responsive-Web-Design/Responsive  Web Design.pdf)
+
+[Here are the dorkshop's slides](/Responsive  Web Design.pdf)
 
 Results also tested on mobile devices with a local server.
 
