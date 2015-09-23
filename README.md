@@ -1,4 +1,4 @@
-# Responsive-Web-Design
+## Responsive-Web-Design
 Dorkshop at MFA Design + Technology, Parsons School for Design
 
 An important thing to know and practice.
@@ -11,12 +11,12 @@ An important thing to know and practice.
 
 [Here are the dorkshop's slides](/Responsive  Web Design.pdf)
 
-Recommended tools: 
+# Recommended tools: 
 - [Sublime Text 3](http://www.sublimetext.com/3)
 - Emmet, ColorPicker, CSS3 and Side Bar (SideBarEnhancement) installed through [Package Control] (https://packagecontrol.io/installation)
 
-
-Results also tested on mobile devices with a local server.
+# Outcome
+Also tested on mobile devices with a local server.
 
 ![1columns](/screenshots/1column.jpg)
 ![2columns](/screenshots/2columns.jpg)
