@@ -12,9 +12,8 @@ An important thing to know and practice.
 [Here are the dorkshop's slides](/Responsive  Web Design.pdf)
 
 Recommended tools: 
-[Sublime Text 3](http://www.sublimetext.com/3)
-
-Emmet, ColorPicker, CSS3 and Side Bar (SideBarEnhancement) installed through [Package Control] (https://packagecontrol.io/installation)
+- [Sublime Text 3](http://www.sublimetext.com/3)
+- Emmet, ColorPicker, CSS3 and Side Bar (SideBarEnhancement) installed through [Package Control] (https://packagecontrol.io/installation)
 
 Results also tested on mobile devices with a local server.
 
